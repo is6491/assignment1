@@ -1,3 +1,15 @@
+---
+title: "Assignment 1"
+author: "Jeremy Morris"
+output: 
+  html_document: 
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 # Assignment Description
 In this assignment, the student will
 
